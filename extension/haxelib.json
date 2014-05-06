@@ -1,0 +1,13 @@
+{
+  "name": "basshx",
+  "url": "www.furusystems.com",
+  "license": "MIT",
+  "tags": [],
+  "description": "BASS support for the OpenFL/Lime Windows target",
+  "version": "1.1.0",
+  "releasenote": "",
+  "contributors": [""],
+  "dependencies": {
+
+  }
+}

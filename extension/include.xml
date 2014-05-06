@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<template path="ndll/Windows/bass.dll" rename="bass.dll" if="windows"/>
+	<ndll name="OpenFL-BASS" if="windows" />
+</project>
