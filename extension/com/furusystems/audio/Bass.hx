@@ -1,4 +1,4 @@
-package com.furusystems.openfl.audio.bass;
+package com.furusystems.audio;
 import cpp.Lib;
 
 /**
@@ -7,7 +7,7 @@ import cpp.Lib;
  */
 
  
-class BassControl
+class Bass
 {
 	
 	static public function startMusic(path:String):Void {
